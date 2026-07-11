@@ -216,3 +216,20 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+
+# База данных
+*.db
+
+# Экспорт программы
+*.csv
+
+# Виртуальное окружение
+venv/
+.venv/
+
+# Логи
+*.log
