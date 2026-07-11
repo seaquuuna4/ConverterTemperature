@@ -49,3 +49,17 @@
 * PyQt5
 * SQLite
 * Pillow
+
+## Скриншоты программы
+
+### Главное окно
+
+![Главное окно](screenshots/main_window.png)
+
+### Конвертация температуры
+
+![Конвертация](screenshots/conversion.png)
+
+### История операций
+
+![История](screenshots/history.png)
